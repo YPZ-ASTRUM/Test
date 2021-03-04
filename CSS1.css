@@ -1,0 +1,26 @@
+
+h1{
+    font-size: 24px;
+    margin: 10,20;
+}
+.content{
+    background-color: antiquewhite;
+    width: 600px;
+    margin: 10px auto;
+    border: 10px solid #000bd0;
+    padding: 30px;
+}
+input{
+    border-bottom:1px solid #d1d1d1 ;
+    font-size: 1.2em;
+    width: 100%;
+    padding: 8px;
+}
+button{
+    width: 100%;
+    background-color: rgb(25, 0, 255);
+    color: #fff;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 0 8px rgba(0, 0, 0,0.4);
+}
